@@ -20,7 +20,7 @@ export const TodoList: React.FC<TodoListProps> = ({ todos, onToggleTodo, onSelec
                 {todos.map(todo => (
                     <li
                         key={todo.id}
-                        className={`${styles.todoItem} ${todo.completed ? styles.completed : ''}`} // Правильное использование классов
+                        className={`${styles.todoItem} ${todo.completed ? styles.completed : ''}`} 
                     >
                         <input
                             type="checkbox"
