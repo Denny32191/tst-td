@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Denny32191/tst-td.git/static/css/main.db02df0c.css",
-    "main.js": "/Denny32191/tst-td.git/static/js/main.8e172e9f.js",
-    "static/js/453.ac79db8d.chunk.js": "/Denny32191/tst-td.git/static/js/453.ac79db8d.chunk.js",
-    "index.html": "/Denny32191/tst-td.git/index.html",
-    "main.db02df0c.css.map": "/Denny32191/tst-td.git/static/css/main.db02df0c.css.map",
-    "main.8e172e9f.js.map": "/Denny32191/tst-td.git/static/js/main.8e172e9f.js.map",
-    "453.ac79db8d.chunk.js.map": "/Denny32191/tst-td.git/static/js/453.ac79db8d.chunk.js.map"
+    "main.css": "/tst-td/static/css/main.db02df0c.css",
+    "main.js": "/tst-td/static/js/main.c3fd68e6.js",
+    "static/js/453.ac79db8d.chunk.js": "/tst-td/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/tst-td/index.html",
+    "main.db02df0c.css.map": "/tst-td/static/css/main.db02df0c.css.map",
+    "main.c3fd68e6.js.map": "/tst-td/static/js/main.c3fd68e6.js.map",
+    "453.ac79db8d.chunk.js.map": "/tst-td/static/js/453.ac79db8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db02df0c.css",
-    "static/js/main.8e172e9f.js"
+    "static/js/main.c3fd68e6.js"
   ]
 }
