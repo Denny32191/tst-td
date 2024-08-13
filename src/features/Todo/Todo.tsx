@@ -52,7 +52,7 @@ export const Todo = () => {
   };
 
   const handleSelectTodo = (id: number) => {
-    dispatch(setSelectedTodo(id)); // Убедитесь, что эта функция правильно обновляет состояние
+    dispatch(setSelectedTodo(id)); 
   };
 
   const itemsLeftCount = filter === "all" ? activeTodosCount : displayedTodos.length;
@@ -71,7 +71,7 @@ export const Todo = () => {
       <TodoList
         todos={displayedTodos}
         onToggleTodo={handleToggleTodo}
-        onSelectTodo={handleSelectTodo} // Передаем новый обработчик
+        onSelectTodo={handleSelectTodo} 
       />
       
       <div>
