@@ -47,7 +47,7 @@ export const todoSlice = createSlice({
             state.selectedTodoId = action.payload;
         },
         setFilter: (state, action: PayloadAction<'all' | 'active' | 'completed'>) => {
-            state.filter = action.payload; // Обновляем состояние фильтра
+            state.filter = action.payload; 
         }
     },
 });
